@@ -14,14 +14,11 @@ Navigate to the folder for a specific day to see the problem statement and my so
 
 Feel free to provide feedback or suggest improvements!
 
-## License
-[MIT](LICENSE.md)
-
 ## Code of Conduct
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Contributing
 [Contributing Guidelines](CONTRIBUTING.md)
 
-## Changelog
-[Changelog](CHANGELOG.md)
+## License
+[MIT](LICENSE.md)
