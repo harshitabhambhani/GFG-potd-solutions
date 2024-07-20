@@ -16,4 +16,4 @@ Navigate to the folder for a specific day to see the problem statement and my so
 Feel free to provide feedback or suggest improvements!
 
 ## License
-[MIT](LICENSE)
+[MIT](LICENSE.md)
