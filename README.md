@@ -16,3 +16,12 @@ Feel free to provide feedback or suggest improvements!
 
 ## License
 [MIT](LICENSE.md)
+
+## Code of Conduct
+[Code of Conduct](CODE_OF_CONDUCT.md)
+
+## Contributing
+[Contributing Guidelines](CONTRIBUTING.md)
+
+## Changelog
+[Changelog](CHANGELOG.md)
