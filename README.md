@@ -2,10 +2,9 @@
 
 Welcome to my 100-day challenge of solving the Geeks for Geeks problem of the day! This repository contains my solutions and explanations for each day's problem.
 
-## Table of Contents
-- [Day 01](./Day01)
-- [Day 02](./Day02)
-- ...
+- [Easy](Easy)
+- [Medium](Medium)
+- [Hard](Hard)
 
 ## About
 In this challenge, I aim to improve my problem-solving skills by tackling a new problem each day. Each day's folder contains the problem statement, my solution, and an explanation of the approach I used.
